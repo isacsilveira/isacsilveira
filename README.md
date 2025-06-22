@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou a Isa 👩‍💻</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Gamer 🎮 • Apaixonada por tecnologia 💻
+  Estudante de Ciência da Computação • Apaixonada por tecnologia 💻
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 📍 Moro no Brasil
 - ✨ Curiosa por novas linguagens e tecnologias
 - 💜 Acredito que aprender todos os dias é a chave para crescer
-- 🎮 Viciada em jogos
+- 🎮 Adoro jogos
 - 🏐 Jogo vôlei e amo academia 🏋️‍♀️
 
 ---
