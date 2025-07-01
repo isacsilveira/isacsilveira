@@ -8,11 +8,13 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Curso Ciência da Computação na UNIFAL (Universidade Federal de Alfenas)
-- ✨ Curiosa por novas linguagens e tecnologias
-- 💖 Acredito que aprender todos os dias é a chave para crescer
-- 🎮 Gamer nas horas vagas
-- 🏐 Amo vôlei e rata de academia 🏋️‍♀️
+- 🎓 Curso Ciência da Computação na UNIFAL (Universidade Federal de Alfenas).
+- ✨ Curiosa por novas linguagens e tecnologias.
+- 💖 Acredito que aprender todos os dias é a chave para crescer.
+- 🎮 Gamer nas horas vagas.
+- 🏐 Amo jogar vôlei e treinar. 🏋️‍♀️
+
+Meu site pessoal: https://isacsilveira.github.io/
 
 ---
 
