@@ -32,12 +32,18 @@ Meu site pessoal: https://isacsilveira.github.io/
 
 ---
 
+
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight"/>
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight"/>
+  <img height="180px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=isacsilveira&show_icons=true&bg_color=2b2b2b&title_color=ff4da6&icon_color=ff69b4&text_color=f5c2e7"/>
+
+  <img height="180px" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&bg_color=2b2b2b&title_color=ff4da6&text_color=f5c2e7"/>
 </div>
+
+
 ---
 
 ### 🌸 Conecte-se comigo
