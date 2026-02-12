@@ -34,10 +34,16 @@ Meu site pessoal: https://isacsilveira.github.io/
 
 ### 📈 Estatísticas do GitHub
 
+### 📈 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&include_all_commits=true&count_private=true&bg_color=2e2e2e&title_color=ff69b4&icon_color=ff1493&text_color=f8c8dc"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&langs_count=15&bg_color=2e2e2e&title_color=ff69b4&text_color=f8c8dc"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&theme=radical"/>
+
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=radical"/>
 </div>
+
 
 ---
 
