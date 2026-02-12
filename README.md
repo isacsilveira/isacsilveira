@@ -35,13 +35,9 @@ Meu site pessoal: https://isacsilveira.github.io/
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isacsilveira&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=radical)
-
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 
 ### 🌸 Conecte-se comigo
