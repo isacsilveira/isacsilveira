@@ -7,42 +7,45 @@
 <p align="center">
   <a href="https://isacsilveira.github.io/">Portfolio</a> •
   <a href="mailto:isabella.cristina@sou.unifal-mg.edu.br">Email</a> •
-  <a href="https://www.instagram.com/isabellacsilveira">Instagram</a>
+  <a href="https://github.com/isacsilveira">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=3000&color=F38BA8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;Building+modern+and+responsive+applications;Focused+on+technology+and+continuous+learning" />
 </p>
 
 ---
 
 ## About Me
 
-- Computer Science student at UNIFAL-MG
-- Interested in Full Stack Development, UI/UX and technology
-- Always learning new tools and technologies
-- Building projects to strengthen my development skills
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- Computer Science student at UNIFAL-MG  
+- Focused on Full Stack Development and UI/UX  
+- Building modern and responsive applications  
+- Constantly learning new technologies and tools  
+
+<br><br>
 
 ---
 
 ## Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,java,c,git,vscode&theme=dark" />
 </p>
+
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180px"
-src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f38ba8&icon_color=f38ba8&text_color=c9d1d9"/>
 
-<img height="180px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f38ba8&text_color=c9d1d9"/>
 
 </div>
 
@@ -52,12 +55,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira
 
 <p align="center">
 
+<a href="https://isacsilveira.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=f38ba8">
+</a>
+
 <a href="mailto:isabella.cristina@sou.unifal-mg.edu.br">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=f38ba8">
 </a>
 
-<a href="https://www.instagram.com/isabellacsilveira">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://github.com/isacsilveira">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=f38ba8">
 </a>
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isacsilveira&label=Profile+Views&color=f38ba8&style=flat" />
 </p>
