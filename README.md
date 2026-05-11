@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - Computer Science student at UNIFAL-MG  
 - Focused on Full Stack Development and UI/UX  
