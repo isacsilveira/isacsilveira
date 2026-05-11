@@ -10,10 +10,6 @@
   <a href="https://github.com/isacsilveira">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=3000&color=F38BA8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;Building+modern+and+responsive+applications;Focused+on+technology+and+continuous+learning" />
-</p>
-
 ---
 
 ## About Me
@@ -42,10 +38,10 @@
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f38ba8&icon_color=f38ba8&text_color=c9d1d9"/>
+src="https://github-readme-stats.vercel.app/api?username=isacsilveira&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f38ba8&text_color=c9d1d9"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsilveira&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
