@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://raw.githubsercontent.com/isacsilveira/isacsilveira/blob/main/PixVerse_V6_Image_Text_360P_Fa%C3%A7a_uma_imagem_em%20(2).mp4">
 
 - Computer Science student at UNIFAL-MG  
 - Focused on Full Stack Development and UI/UX  
