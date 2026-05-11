@@ -69,6 +69,43 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i
 
 </p>
 
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://isacsilveira.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=89b4fa">
+</a>
+
+<a href="mailto:isabella.cristina@sou.unifal-mg.edu.br">
+  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=89b4fa">
+</a>
+
+<a href="https://github.com/isacsilveira">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=89b4fa">
+</a>
+
+</p>
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://isacsilveira.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=89b4fa">
+</a>
+
+<a href="mailto:isabella.cristina@sou.unifal-mg.edu.br">
+  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=89b4fa">
+</a>
+
+<a href="https://github.com/isacsilveira">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=89b4fa">
+</a>
+
+</p>
+
 ---
 
 <p align="center">
