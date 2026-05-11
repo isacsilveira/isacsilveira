@@ -23,31 +23,15 @@
 
 ## Technologies
 
-<div align="center">
-
-<img alt="JavaScript" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img alt="React" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img alt="HTML" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img alt="CSS" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img alt="Python" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img alt="C" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
-<img alt="Git" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
+</p>
 ---
 
 ## GitHub Stats
