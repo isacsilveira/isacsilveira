@@ -1,5 +1,8 @@
 <h1 align="center">Isabella Cristina da Silveira</h1>
 
+<p align="center">
+  Computer Science Student • Full Stack Developer
+</p>
 
 <p align="center">
   <a href="https://isacsilveira.github.io/">Portfolio</a> •
