@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="woman coding" width="280" src="https://media.tenor.com/Xqg8D0s9YUEAAAAC/woman-developer.gif">
+<img align="right" alt="girl coding" width="280" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 - Computer Science student at UNIFAL-MG  
 - Focused on Full Stack Development and UI/UX  
