@@ -16,8 +16,7 @@
 
 <img align="right" alt="girl coding" width="280" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
-- Computer Science student at UNIFAL-MG  
-- Focused on Full Stack Development and UI/UX  
+- Computer Science student at UNIFAL-MG    
 - Building modern and responsive applications  
 - Constantly learning new technologies and tools  
 
