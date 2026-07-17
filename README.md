@@ -1,7 +1,7 @@
 <h1 align="center">Isabella Cristina da Silveira</h1>
 
 <p align="center">
-  Computer Science Student • Full Stack Developer
+ • Computer Science Student • 
 </p>
 
 <p align="center">
