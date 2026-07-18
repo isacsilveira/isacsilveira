@@ -51,6 +51,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isacsilveira&label=Profile+Views&color=89b4fa&style=flat" />
 </p>
