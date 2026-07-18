@@ -21,7 +21,8 @@
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,spring,react,ts,postgresql,docker,git,vscode,html,css,js&theme=dark&perline=7" />
+ <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,spring,react,ts,postgresql,mysql,docker,git,vscode,html,css,js&theme=dark&perline=8" />
+ <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
 ---
