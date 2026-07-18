@@ -27,7 +27,7 @@
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,java,c,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,react,ts,postgresql,docker,git,vscode,html,css,js&theme=dark&perline=7" />
 </p>
 
 ---
