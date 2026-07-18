@@ -4,12 +4,6 @@
  • Computer Science Student • 
 </p>
 
-<p align="center">
-  <a href="https://isacsilveira.github.io/">Portfolio</a> •
-  <a href="mailto:isabella.cristina@sou.unifal-mg.edu.br">Email</a> •
-  <a href="https://github.com/isacsilveira">GitHub</a>
-</p>
-
 ---
 
 ## About Me
